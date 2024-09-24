@@ -1,4 +1,6 @@
-# 💫 About Me:
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+
+
 <br> I’m currently learning python<br> Ask me about  " NOTHİNG "<br> 
 
 
@@ -18,6 +20,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
 ---
 [![](https://visitcount.itsvg.in/api?id=ZiyaEkiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
